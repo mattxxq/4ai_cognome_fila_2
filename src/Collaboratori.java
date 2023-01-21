@@ -5,6 +5,7 @@ public class Collaboratori {
 		// TODO Auto-generated method stub
 		System.out.println("Filoni Matteo");
 		System.out.println("Filoni Gioele");
+		System.out.println("Portaccio Giacomo");
 		
 	}
 
