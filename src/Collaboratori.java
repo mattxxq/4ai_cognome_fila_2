@@ -6,6 +6,7 @@ public class Collaboratori {
 		System.out.println("Filoni Matteo");
 		System.out.println("Molle Samuele");
 		System.out.println("Quintana Simone");
+		System.out.println("Filoni Gioele");
 
 	}
 
